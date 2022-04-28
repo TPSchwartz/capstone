@@ -29,3 +29,4 @@
 ## Acknowledgements
 - This project was inspired by OpenBeta and several projects that the community there has created.
 - The route recommender was based on this guide by Viet Nguyen. - https://openbeta.substack.com/p/building-a-climbing-route-recommendation?s=r
+- Thank you to Chris Wright and Joshua Rio-Ross, our class instructors, for their constant guidance and help with this project.
